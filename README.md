@@ -77,6 +77,7 @@ Testing
 -----------------------
 Front-End Testing:
 Cypress played a crucial role in frontend testing, offering an end-to-end testing framework. It facilitated the simulation of user interactions.
+
 Back-End Testing:
 I utilized Postman to create a comprehensive suite of API tests.
 This included validating various endpoints, handling different HTTP methods, and ensuring correct responses. 
