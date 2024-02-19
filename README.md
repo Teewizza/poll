@@ -1,4 +1,3 @@
-# poll
 Poll Voting System
 =====================
 
