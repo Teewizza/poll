@@ -35,8 +35,8 @@ To set up the Dizplai Voting System locally, follow these steps:
 1. Clone the repository: `git clone https://github.com/Teewizza/poll.git`
 2. Navigate to the project directory: `cd poll`
 3. Navigate to the Server directory: `cd server`
-4. Run the following in the Visual Studio Terminal: 'npm init -y'
-5. Install Express.js in the Visual Studio Terminal: 'npm i express'
+4. Run the following in the Visual Studio Terminal: `npm init -y`
+5. Install Express.js in the Visual Studio Terminal: `npm i express`
 6. Start the server: `npm start`
 
 Usage
